@@ -1,1 +1,2 @@
-# mis prácticas en Grado-I.Inform-tica-Ingenier-a-de-Servidores
+# ingeniera de servidores
+Mis prácticas de la asignatura obligatoria: Ingeniería de Servidores, del grado en ingeniería informática. UGR
